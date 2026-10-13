@@ -29,3 +29,7 @@ tests you can run with `python -m unittest`.
 | [secret-leak-guard](https://github.com/PinguePatrick/secret-leak-guard) | A git pre-commit check that blocks commits containing credentials, without printing the credential. |
 | [archive-verify](https://github.com/PinguePatrick/archive-verify) | Finds reclaimable disk space and archives folders with SHA-256 proof that every file was kept. |
 | [local-ci-runner](https://github.com/PinguePatrick/local-ci-runner) | Runs lint and tests on a schedule where hosted CI is not available, with a log line per run. |
+
+## Guides I wrote
+
+Short, practical guides on running AI locally, automation and AI for IT work: [alternativephusion2.gumroad.com](https://alternativephusion2.gumroad.com). Free starters: [Run AI on your own PC in 10 minutes](https://alternativephusion2.gumroad.com/l/nhxyuc) and [AI for Noobs](https://alternativephusion2.gumroad.com/l/vffssh).
